@@ -9,6 +9,9 @@ RUN set -ex; \
       git \
       net-tools \
       novnc \
+      python3 \
+      python3-pip \
+      python3-tk \
       socat \
       supervisor \
       x11vnc \
